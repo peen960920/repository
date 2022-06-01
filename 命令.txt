@@ -21,3 +21,7 @@ git remote add origin git@github.com:peen960920/repository  关联一个远程库
 删除远程库：
 git remote -v  查看远程库信息
 git remote rm origin  根据名字删除
+
+查看分支
+git branch
+https://www.cnblogs.com/cheyunhua/p/15895905.html
