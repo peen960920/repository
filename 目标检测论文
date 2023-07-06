@@ -1,4 +1,15 @@
 DETR
 论文：chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F2005.12872.pdf
-解读：https://blog.csdn.net/baidu_36913330/article/details/120495817
+代码：
+论文解读：
+      https://blog.csdn.net/baidu_36913330/article/details/120495817
       https://blog.csdn.net/pengxiang1998/article/details/129415345?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-1-129415345-blog-120495817.235^v38^pc_relevant_sort&spm=1001.2101.3001.4242.2&utm_relevant_index=4
+代码解读：
+      https://blog.csdn.net/athrunsunny/article/details/123128213
+
+StreamPETR
+论文：chrome-extension://cdonnmffkdaoajfknoeeecmchibpmkmg/assets/pdf/web/viewer.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F2303.11926.pdf
+代码：https://github.com/exiawsh/StreamPETR
+解读：
+      https://zhuanlan.zhihu.com/p/619293213
+代码解读：
